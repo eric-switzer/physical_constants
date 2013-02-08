@@ -2,7 +2,7 @@
     "Angstrom_star": {
         "desc": "Angstrom star",
         "uncertainty": 8.9999999999999996e-15,
-        "units": "m",
+        "units": "cm",
         "value": 1.0000149499999999e-8
     },
     "Avogadro_constant": {
@@ -50,7 +50,7 @@
     "Compton_wavelength_over_2pi": {
         "desc": "Compton wavelength over 2pi",
         "uncertainty": 2.4999999999999998e-20,
-        "units": "m",
+        "units": "cm",
         "value": 3.86159268e-11
     },
     "Fermi_coupling_constant": {
@@ -380,7 +380,7 @@
     "electron_mass": {
         "desc": "electron mass",
         "uncertainty": 3.9999999999999998e-35,
-        "units": "kg",
+        "units": "g",
         "value": 9.1093829099999999e-28
     },
     "electron_mass_MeV": {
@@ -548,7 +548,7 @@
     "muon_mass": {
         "desc": "muon mass",
         "uncertainty": 9.6e-33,
-        "units": "kg",
+        "units": "g",
         "value": 1.8835314749999999e-25
     },
     "muon_mass_MeV": {
