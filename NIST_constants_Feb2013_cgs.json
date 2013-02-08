@@ -1,0 +1,794 @@
+{
+    "Angstrom_star": {
+        "desc": "Angstrom star",
+        "uncertainty": 8.9999999999999996e-15,
+        "units": "m",
+        "value": 1.0000149499999999e-8
+    },
+    "Avogadro_constant": {
+        "desc": "Avogadro constant",
+        "uncertainty": 27000000000000000.0,
+        "units": "mol^-1",
+        "value": 6.0221412899999997e+23
+    },
+    "Bohr_magneton": {
+        "desc": "Bohr magneton",
+        "uncertainty": 2.0000000000000002e-28,
+        "units": "erg G^-1",
+        "value": 9.2740096799999997e-21
+    },
+    "Bohr_radius": {
+        "desc": "Bohr radius",
+        "uncertainty": 1.6999999999999999e-18,
+        "units": "cm",
+        "value": 5.2917721092000003e-9
+    },
+    "Boltzmann_constant": {
+        "desc": "Boltzmann constant",
+        "uncertainty": 1.3000000000000001e-22,
+        "units": "erg K^-1",
+        "value": 1.3806488e-16
+    },
+    "Boltzmann_constant_in_Hz/K": {
+        "desc": "Boltzmann constant in Hz/K",
+        "uncertainty": 19000.0,
+        "units": "Hz K^-1",
+        "value": 20836618000.0
+    },
+    "Boltzmann_constant_in_eV/K": {
+        "desc": "Boltzmann constant in eV/K",
+        "uncertainty": 7.8000000000000002e-11,
+        "units": "eV K^-1",
+        "value": 8.6173323999999996e-05
+    },
+    "Compton_wavelength": {
+        "desc": "Compton wavelength",
+        "uncertainty": 1.6000000000000001e-19,
+        "units": "cm",
+        "value": 2.4263102389000001e-10
+    },
+    "Compton_wavelength_over_2pi": {
+        "desc": "Compton wavelength over 2pi",
+        "uncertainty": 2.4999999999999998e-20,
+        "units": "m",
+        "value": 3.86159268e-11
+    },
+    "Fermi_coupling_constant": {
+        "desc": "Fermi coupling constant",
+        "uncertainty": 5.0000000000000002e-11,
+        "units": "GeV^-2",
+        "value": 1.1663640000000001e-05
+    },
+    "Hartree_energy_in_eV": {
+        "desc": "Hartree energy in eV",
+        "uncertainty": 5.9999999999999997e-07,
+        "units": "eV",
+        "value": 27.211385050000001
+    },
+    "Josephson_constant": {
+        "desc": "Josephson constant",
+        "uncertainty": 11000000.0,
+        "units": "Hz V^-1",
+        "value": 483597870000000.0
+    },
+    "Newtonian_constant_of_gravitation": {
+        "desc": "Newtonian constant of gravitation",
+        "uncertainty": 8.0000000000000006e-12,
+        "units": "cm^3 g^-1 s^-2",
+        "value": 6.6738400000000001e-8
+    },
+    "Newtonian_constant_of_gravitation_over_h-bar_c": {
+        "desc": "Newtonian constant of gravitation over h-bar c",
+        "uncertainty": 8.0000000000000006e-43,
+        "units": "(GeV/c^2)^-2",
+        "value": 6.7083699999999995e-39
+    },
+    "Planck_constant": {
+        "desc": "Planck constant",
+        "uncertainty": 2.8999999999999998e-34,
+        "units": "erg s",
+        "value": 6.6260695699999996e-27
+    },
+    "Planck_constant_in_eV_s": {
+        "desc": "Planck constant in eV s",
+        "uncertainty": 9.0999999999999999e-23,
+        "units": "eV s",
+        "value": 4.1356675160000004e-15
+    },
+    "Planck_constant_over_2pi": {
+        "desc": "Planck constant over 2pi",
+        "uncertainty": 4.7000000000000001e-35,
+        "units": "erg s",
+        "value": 1.0545717259999999e-27
+    },
+    "Planck_constant_over_2pi_in_eV_s": {
+        "desc": "Planck constant over 2pi in eV s",
+        "uncertainty": 1.5e-23,
+        "units": "eV s",
+        "value": 6.5821192800000001e-16
+    },
+    "Planck_constant_over_2pi_times_c_in_MeV_fm": {
+        "desc": "Planck constant over 2pi times c in MeV fm",
+        "uncertainty": 4.4000000000000002e-06,
+        "units": "MeV fm",
+        "value": 197.3269718
+    },
+    "Planck_length": {
+        "desc": "Planck length",
+        "uncertainty": 9.7000000000000004e-38,
+        "units": "cm",
+        "value": 1.616199e-33
+    },
+    "Planck_mass": {
+        "desc": "Planck mass",
+        "uncertainty": 1.2999999999999999e-9,
+        "units": "g",
+        "value": 2.1765099999999999e-05
+    },
+    "Planck_mass_GeV": {
+        "desc": "Planck mass GeV",
+        "uncertainty": 730000000000000.0,
+        "units": "GeV",
+        "value": 1.220932e+19
+    },
+    "Planck_temperature": {
+        "desc": "Planck temperature",
+        "uncertainty": 8.5e+27,
+        "units": "K",
+        "value": 1.416833e+32
+    },
+    "Planck_time": {
+        "desc": "Planck time",
+        "uncertainty": 3.1999999999999998e-48,
+        "units": "s",
+        "value": 5.3910599999999999e-44
+    },
+    "Rydberg_constant": {
+        "desc": "Rydberg constant",
+        "uncertainty": 5.5000000000000002e-07,
+        "units": "cm^-1",
+        "value": 1.0973731568539e5
+    },
+    "Rydberg_constant_times_c_in_Hz": {
+        "desc": "Rydberg constant times c in Hz",
+        "uncertainty": 17000.0,
+        "units": "Hz",
+        "value": 3289841960364000.0
+    },
+    "Rydberg_constant_times_hc_in_eV": {
+        "desc": "Rydberg constant times hc in eV",
+        "uncertainty": 2.9999999999999999e-07,
+        "units": "eV",
+        "value": 13.605692530000001
+    },
+    "Sackur-Tetrode_constant": {
+        "desc": "Sackur-Tetrode constant",
+        "uncertainty": 2.3e-06,
+        "units": null,
+        "value": -1.1648708000000001
+    },
+    "Stefan-Boltzmann_constant": {
+        "desc": "Stefan-Boltzmann constant",
+        "uncertainty": 2.0999999999999999e-10,
+        "units": "erg s^-1 cm^-2 K^-4",
+        "value": 5.6703730000000003e-05
+    },
+    "Thomson_cross_section": {
+        "desc": "Thomson cross section",
+        "uncertainty": 1.2999999999999999e-33,
+        "units": "cm^2",
+        "value": 6.6524587339999996e-25
+    },
+    "Wien_frequency_displacement_law_constant": {
+        "desc": "Wien frequency displacement law constant",
+        "uncertainty": 53000.0,
+        "units": "Hz K^-1",
+        "value": 58789254000.0
+    },
+    "Wien_wavelength_displacement_law_constant": {
+        "desc": "Wien wavelength displacement law constant",
+        "uncertainty": 2.6000000000000001e-07,
+        "units": "cm K",
+        "value": 0.28977720999999999
+    },
+    "alpha_particle_mass": {
+        "desc": "alpha particle mass",
+        "uncertainty": 2.9000000000000002e-31,
+        "units": "g",
+        "value": 6.6446567499999999e-24
+    },
+    "alpha_particle_mass_MeV": {
+        "desc": "alpha particle mass MeV",
+        "uncertainty": 8.2000000000000001e-05,
+        "units": "MeV",
+        "value": 3727.3792400000002
+    },
+    "alpha_particle_mass_in_u": {
+        "desc": "alpha particle mass in u",
+        "uncertainty": 6.2000000000000006e-11,
+        "units": "u",
+        "value": 4.0015061791250002
+    },
+    "atomic_mass_constant": {
+        "desc": "atomic mass constant",
+        "uncertainty": 7.2999999999999995e-32,
+        "units": "g",
+        "value": 1.6605389209999998e-24
+    },
+    "atomic_mass_constant_MeV": {
+        "desc": "atomic mass constant MeV",
+        "uncertainty": 2.0999999999999999e-05,
+        "units": "MeV",
+        "value": 931.49406099999999
+    },
+    "atomic_mass_unit-electron_volt_relationship": {
+        "desc": "atomic mass unit-electron volt relationship",
+        "uncertainty": 21.0,
+        "units": "eV",
+        "value": 931494061.0
+    },
+    "atomic_mass_unit-hartree_relationship": {
+        "desc": "atomic mass unit-hartree relationship",
+        "uncertainty": 0.024,
+        "units": "Eh",
+        "value": 34231776.844999999
+    },
+    "atomic_mass_unit-hertz_relationship": {
+        "desc": "atomic mass unit-hertz relationship",
+        "uncertainty": 160000000000000.0,
+        "units": "Hz",
+        "value": 2.2523427167999999e+23
+    },
+    "characteristic_impedance_of_vacuum": {
+        "desc": "characteristic impedance of vacuum",
+        "uncertainty": 0.0,
+        "units": "ohm",
+        "value": 376.73031346099998
+    },
+    "classical_electron_radius": {
+        "desc": "classical electron radius",
+        "uncertainty": 2.7000000000000001e-22,
+        "units": "cm",
+        "value": 2.8179403267000001e-13
+    },
+    "conductance_quantum": {
+        "desc": "conductance quantum",
+        "uncertainty": 2.5000000000000001e-14,
+        "units": "S",
+        "value": 7.7480917345999995e-05
+    },
+    "conventional_value_of_Josephson_constant": {
+        "desc": "conventional value of Josephson constant",
+        "uncertainty": 0.0,
+        "units": "Hz V^-1",
+        "value": 483597900000000.0
+    },
+    "conventional_value_of_von_Klitzing_constant": {
+        "desc": "conventional value of von Klitzing constant",
+        "uncertainty": 0.0,
+        "units": "ohm",
+        "value": 25812.807000000001
+    },
+    "deuteron-electron_magnetic_moment_ratio": {
+        "desc": "deuteron-electron magnetic moment ratio",
+        "uncertainty": 3.8999999999999999e-12,
+        "units": null,
+        "value": -0.00046643455370000002
+    },
+    "deuteron-neutron_magnetic_moment_ratio": {
+        "desc": "deuteron-neutron magnetic moment ratio",
+        "uncertainty": 1.1000000000000001e-07,
+        "units": null,
+        "value": -0.44820652
+    },
+    "deuteron-proton_magnetic_moment_ratio": {
+        "desc": "deuteron-proton magnetic moment ratio",
+        "uncertainty": 2.4e-09,
+        "units": null,
+        "value": 0.30701220699999998
+    },
+    "deuteron_g_factor": {
+        "desc": "deuteron g factor",
+        "uncertainty": 7.2e-09,
+        "units": null,
+        "value": 0.85743823080000003
+    },
+    "deuteron_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "deuteron magnetic moment to Bohr magneton ratio",
+        "uncertainty": 3.8999999999999999e-12,
+        "units": null,
+        "value": 0.00046697545560000001
+    },
+    "deuteron_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "deuteron magnetic moment to nuclear magneton ratio",
+        "uncertainty": 7.2e-09,
+        "units": null,
+        "value": 0.85743823080000003
+    },
+    "deuteron_mass": {
+        "desc": "deuteron mass",
+        "uncertainty": 1.5e-31,
+        "units": "g",
+        "value": 3.3435834799999996e-24
+    },
+    "deuteron_mass_MeV": {
+        "desc": "deuteron mass MeV",
+        "uncertainty": 4.1e-05,
+        "units": "MeV",
+        "value": 1875.6128590000001
+    },
+    "deuteron_mass_in_u": {
+        "desc": "deuteron mass in u",
+        "uncertainty": 7.7000000000000006e-11,
+        "units": "u",
+        "value": 2.0135532127119999
+    },
+    "deuteron_rms_charge_radius": {
+        "desc": "deuteron rms charge radius",
+        "uncertainty": 2.1e-16,
+        "units": "cm",
+        "value": 2.1423999999999999e-13
+    },
+    "electron-deuteron_magnetic_moment_ratio": {
+        "desc": "electron-deuteron magnetic moment ratio",
+        "uncertainty": 1.8e-05,
+        "units": null,
+        "value": -2143.9234980000001
+    },
+    "electron-muon_magnetic_moment_ratio": {
+        "desc": "electron-muon magnetic moment ratio",
+        "uncertainty": 5.2000000000000002e-06,
+        "units": null,
+        "value": 206.76698959999999
+    },
+    "electron-neutron_magnetic_moment_ratio": {
+        "desc": "electron-neutron magnetic moment ratio",
+        "uncertainty": 0.00023000000000000001,
+        "units": null,
+        "value": 960.92049999999995
+    },
+    "electron-proton_magnetic_moment_ratio": {
+        "desc": "electron-proton magnetic moment ratio",
+        "uncertainty": 5.4e-06,
+        "units": null,
+        "value": -658.21068479999997
+    },
+    "electron_g_factor": {
+        "desc": "electron g factor",
+        "uncertainty": 5.2999999999999996e-13,
+        "units": null,
+        "value": -2.0023193043615302
+    },
+    "electron_magnetic_moment_anomaly": {
+        "desc": "electron magnetic moment anomaly",
+        "uncertainty": 2.7000000000000001e-13,
+        "units": null,
+        "value": 0.00115965218076
+    },
+    "electron_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "electron magnetic moment to Bohr magneton ratio",
+        "uncertainty": 2.7000000000000001e-13,
+        "units": null,
+        "value": -1.00115965218076
+    },
+    "electron_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "electron magnetic moment to nuclear magneton ratio",
+        "uncertainty": 7.5000000000000002e-07,
+        "units": null,
+        "value": -1838.2819709
+    },
+    "electron_mass": {
+        "desc": "electron mass",
+        "uncertainty": 3.9999999999999998e-35,
+        "units": "kg",
+        "value": 9.1093829099999999e-28
+    },
+    "electron_mass_MeV": {
+        "desc": "electron mass MeV",
+        "uncertainty": 1.0999999999999999e-08,
+        "units": "MeV",
+        "value": 0.51099892800000002
+    },
+    "electron_mass_in_u": {
+        "desc": "electron mass in u",
+        "uncertainty": 2.2e-13,
+        "units": "u",
+        "value": 0.00054857990946000003
+    },
+    "electron_to_shielded_helion_magnetic_moment_ratio": {
+        "desc": "electron to shielded helion magnetic moment ratio",
+        "uncertainty": 1.0000000000000001e-05,
+        "units": null,
+        "value": 864.05825700000003
+    },
+    "electron_to_shielded_proton_magnetic_moment_ratio": {
+        "desc": "electron to shielded proton magnetic moment ratio",
+        "uncertainty": 7.1999999999999997e-06,
+        "units": null,
+        "value": -658.22759710000003
+    },
+    "electron_volt": {
+        "desc": "electron volt",
+        "uncertainty": 3.5000000000000001e-20,
+        "units": "erg",
+        "value": 1.602176565e-12
+    },
+    "electron_volt-atomic_mass_unit_relationship": {
+        "desc": "electron volt-atomic mass unit relationship",
+        "uncertainty": 2.3999999999999999e-17,
+        "units": "u",
+        "value": 1.0735441500000001e-09
+    },
+    "electron_volt-hartree_relationship": {
+        "desc": "electron volt-hartree relationship",
+        "uncertainty": 8.0999999999999999e-10,
+        "units": "Eh",
+        "value": 0.036749323790000003
+    },
+    "electron_volt-hertz_relationship": {
+        "desc": "electron volt-hertz relationship",
+        "uncertainty": 5300000.0,
+        "units": "Hz",
+        "value": 241798934800000.0
+    },
+    "electron_volt-joule_relationship": {
+        "desc": "electron volt-joule relationship",
+        "uncertainty": 3.5000000000000001e-20,
+        "units": "erg",
+        "value": 1.602176565e-12
+    },
+    "electron_volt-kelvin_relationship": {
+        "desc": "electron volt-kelvin relationship",
+        "uncertainty": 0.010999999999999999,
+        "units": "K",
+        "value": 11604.519
+    },
+    "electron_volt-kilogram_relationship": {
+        "desc": "electron volt-kilogram relationship",
+        "uncertainty": 3.9000000000000002e-41,
+        "units": "g",
+        "value": 1.7826618449999999e-33
+    },
+    "fine-structure_constant": {
+        "desc": "fine-structure constant",
+        "uncertainty": 2.3999999999999999e-12,
+        "units": null,
+        "value": 0.0072973525697999997
+    },
+    "first_radiation_constant": {
+        "desc": "first radiation constant",
+        "uncertainty": 1.7e-12,
+        "units": "erg s^-1 cm^2",
+        "value": 3.7417715299999998e-5
+    },
+    "first_radiation_constant_for_spectral_radiance": {
+        "desc": "first radiation constant for spectral radiance",
+        "uncertainty": 5.2999999999999997e-13,
+        "units": "erg s^-1 cm^2 sr^-1",
+        "value": 1.1910428690000001e-5
+    },
+    "helion_g_factor": {
+        "desc": "helion g factor",
+        "uncertainty": 4.9999999999999998e-08,
+        "units": null,
+        "value": -4.2552506130000003
+    },
+    "helion_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "helion magnetic moment to Bohr magneton ratio",
+        "uncertainty": 1.4e-11,
+        "units": null,
+        "value": -0.001158740958
+    },
+    "helion_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "helion magnetic moment to nuclear magneton ratio",
+        "uncertainty": 2.4999999999999999e-08,
+        "units": null,
+        "value": -2.1276253060000001
+    },
+    "helion_mass": {
+        "desc": "helion mass",
+        "uncertainty": 2.1999999999999999e-31,
+        "units": "g",
+        "value": 5.0064123399999998e-24
+    },
+    "helion_mass_MeV": {
+        "desc": "helion mass MeV",
+        "uncertainty": 6.2000000000000003e-05,
+        "units": "MeV",
+        "value": 2808.391482
+    },
+    "helion_mass_in_u": {
+        "desc": "helion mass in u",
+        "uncertainty": 2.5000000000000001e-09,
+        "units": "u",
+        "value": 3.0149322467999999
+    },
+    "inverse_fine-structure_constant": {
+        "desc": "inverse fine-structure constant",
+        "uncertainty": 4.3999999999999997e-08,
+        "units": null,
+        "value": 137.03599907399999
+    },
+    "inverse_of_conductance_quantum": {
+        "desc": "inverse of conductance quantum",
+        "uncertainty": 4.1999999999999996e-06,
+        "units": "ohm",
+        "value": 12906.4037217
+    },
+    "muon-proton_magnetic_moment_ratio": {
+        "desc": "muon-proton magnetic moment ratio",
+        "uncertainty": 8.3999999999999998e-08,
+        "units": null,
+        "value": -3.1833451070000001
+    },
+    "muon_g_factor": {
+        "desc": "muon g factor",
+        "uncertainty": 1.3000000000000001e-09,
+        "units": null,
+        "value": -2.0023318417999998
+    },
+    "muon_magnetic_moment_anomaly": {
+        "desc": "muon magnetic moment anomaly",
+        "uncertainty": 6.3e-10,
+        "units": null,
+        "value": 0.00116592091
+    },
+    "muon_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "muon magnetic moment to Bohr magneton ratio",
+        "uncertainty": 1.2e-10,
+        "units": null,
+        "value": -0.0048419704400000001
+    },
+    "muon_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "muon magnetic moment to nuclear magneton ratio",
+        "uncertainty": 2.2000000000000001e-07,
+        "units": null,
+        "value": -8.8905969700000007
+    },
+    "muon_mass": {
+        "desc": "muon mass",
+        "uncertainty": 9.6e-33,
+        "units": "kg",
+        "value": 1.8835314749999999e-25
+    },
+    "muon_mass_MeV": {
+        "desc": "muon mass MeV",
+        "uncertainty": 3.4999999999999999e-06,
+        "units": "MeV",
+        "value": 105.6583715
+    },
+    "muon_mass_in_u": {
+        "desc": "muon mass in u",
+        "uncertainty": 2.8999999999999999e-09,
+        "units": "u",
+        "value": 0.1134289267
+    },
+    "neutron-electron_magnetic_moment_ratio": {
+        "desc": "neutron-electron magnetic moment ratio",
+        "uncertainty": 2.5000000000000002e-10,
+        "units": null,
+        "value": 0.00104066882
+    },
+    "neutron-proton_magnetic_moment_ratio": {
+        "desc": "neutron-proton magnetic moment ratio",
+        "uncertainty": 1.6e-07,
+        "units": null,
+        "value": -0.68497934000000005
+    },
+    "neutron-proton_mass_difference": {
+        "desc": "neutron-proton mass difference",
+        "uncertainty": 7.6000000000000008e-37,
+        "units": null,
+        "value": 2.3055739200000001e-30
+    },
+    "neutron-proton_mass_difference_MeV": {
+        "desc": "neutron-proton mass difference MeV",
+        "uncertainty": 4.2e-07,
+        "units": null,
+        "value": 1.29333217
+    },
+    "neutron-proton_mass_difference_in_u": {
+        "desc": "neutron-proton mass difference in u",
+        "uncertainty": 4.5e-10,
+        "units": null,
+        "value": 0.00138844919
+    },
+    "neutron_g_factor": {
+        "desc": "neutron g factor",
+        "uncertainty": 8.9999999999999996e-07,
+        "units": null,
+        "value": -3.8260854499999999
+    },
+    "neutron_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "neutron magnetic moment to Bohr magneton ratio",
+        "uncertainty": 2.5000000000000002e-10,
+        "units": null,
+        "value": -0.0010418756299999999
+    },
+    "neutron_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "neutron magnetic moment to nuclear magneton ratio",
+        "uncertainty": 4.4999999999999998e-07,
+        "units": null,
+        "value": -1.91304272
+    },
+    "neutron_mass": {
+        "desc": "neutron mass",
+        "uncertainty": 7.3999999999999998e-32,
+        "units": "g",
+        "value": 1.6749273509999999e-24
+    },
+    "neutron_mass_MeV": {
+        "desc": "neutron mass MeV",
+        "uncertainty": 2.0999999999999999e-05,
+        "units": "MeV",
+        "value": 939.56537900000001
+    },
+    "neutron_mass_in_u": {
+        "desc": "neutron mass in u",
+        "uncertainty": 4.3000000000000001e-10,
+        "units": "u",
+        "value": 1.0086649160000001
+    },
+    "neutron_to_shielded_proton_magnetic_moment_ratio": {
+        "desc": "neutron to shielded proton magnetic moment ratio",
+        "uncertainty": 1.6e-07,
+        "units": null,
+        "value": -0.68499694
+    },
+    "proton-neutron_magnetic_moment_ratio": {
+        "desc": "proton-neutron magnetic moment ratio",
+        "uncertainty": 3.3999999999999997e-07,
+        "units": null,
+        "value": -1.45989806
+    },
+    "proton_g_factor": {
+        "desc": "proton g factor",
+        "uncertainty": 4.6000000000000002e-08,
+        "units": null,
+        "value": 5.5856947129999996
+    },
+    "proton_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "proton magnetic moment to Bohr magneton ratio",
+        "uncertainty": 1.2000000000000001e-11,
+        "units": null,
+        "value": 0.0015210322100000001
+    },
+    "proton_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "proton magnetic moment to nuclear magneton ratio",
+        "uncertainty": 2.3000000000000001e-08,
+        "units": null,
+        "value": 2.7928473559999998
+    },
+    "proton_magnetic_shielding_correction": {
+        "desc": "proton magnetic shielding correction",
+        "uncertainty": 1.4e-08,
+        "units": null,
+        "value": 2.5694000000000002e-05
+    },
+    "proton_mass": {
+        "desc": "proton mass",
+        "uncertainty": 7.3999999999999998e-32,
+        "units": "g",
+        "value": 1.6726217770000001e-24
+    },
+    "proton_mass_MeV": {
+        "desc": "proton mass MeV",
+        "uncertainty": 2.0999999999999999e-05,
+        "units": "MeV",
+        "value": 938.27204600000005
+    },
+    "proton_mass_in_u": {
+        "desc": "proton mass in u",
+        "uncertainty": 8.9999999999999999e-11,
+        "units": "u",
+        "value": 1.007276466812
+    },
+    "proton_rms_charge_radius": {
+        "desc": "proton rms charge radius",
+        "uncertainty": 5.0999999999999998e-16,
+        "units": "cm",
+        "value": 8.7749999999999996e-14
+    },
+    "second_radiation_constant": {
+        "desc": "second radiation constant",
+        "uncertainty": 1.3000000000000001e-06,
+        "units": "cm K",
+        "value": 1.4387769999999999
+    },
+    "shielded_helion_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "shielded helion magnetic moment to Bohr magneton ratio",
+        "uncertainty": 1.4e-11,
+        "units": null,
+        "value": -0.0011586714710000001
+    },
+    "shielded_helion_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "shielded helion magnetic moment to nuclear magneton ratio",
+        "uncertainty": 2.4999999999999999e-08,
+        "units": null,
+        "value": -2.1274977179999999
+    },
+    "shielded_helion_to_proton_magnetic_moment_ratio": {
+        "desc": "shielded helion to proton magnetic moment ratio",
+        "uncertainty": 1.0999999999999999e-08,
+        "units": null,
+        "value": -0.76176655800000004
+    },
+    "shielded_helion_to_shielded_proton_magnetic_moment_ratio": {
+        "desc": "shielded helion to shielded proton magnetic moment ratio",
+        "uncertainty": 3.3000000000000002e-09,
+        "units": null,
+        "value": -0.76178613129999995
+    },
+    "shielded_proton_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "shielded proton magnetic moment to Bohr magneton ratio",
+        "uncertainty": 1.6999999999999999e-11,
+        "units": null,
+        "value": 0.0015209931279999999
+    },
+    "shielded_proton_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "shielded proton magnetic moment to nuclear magneton ratio",
+        "uncertainty": 2.9999999999999997e-08,
+        "units": null,
+        "value": 2.792775598
+    },
+    "speed_of_light_in_vacuum": {
+        "desc": "speed of light in vacuum",
+        "uncertainty": 0.0,
+        "units": "cm s^-1",
+        "value": 2.99792458e10
+    },
+    "tau_mass_MeV": {
+        "desc": "tau mass MeV",
+        "uncertainty": 0.16,
+        "units": "MeV",
+        "value": 1776.8199999999999
+    },
+    "tau_mass_in_u": {
+        "desc": "tau mass in u",
+        "uncertainty": 0.00017000000000000001,
+        "units": "u",
+        "value": 1.9074899999999999
+    },
+    "triton_g_factor": {
+        "desc": "triton g factor",
+        "uncertainty": 7.6000000000000006e-08,
+        "units": null,
+        "value": 5.9579248959999997
+    },
+    "triton_magnetic_moment_to_Bohr_magneton_ratio": {
+        "desc": "triton magnetic moment to Bohr magneton ratio",
+        "uncertainty": 2.0999999999999999e-11,
+        "units": null,
+        "value": 0.0016223936569999999
+    },
+    "triton_magnetic_moment_to_nuclear_magneton_ratio": {
+        "desc": "triton magnetic moment to nuclear magneton ratio",
+        "uncertainty": 3.8000000000000003e-08,
+        "units": null,
+        "value": 2.9789624479999999
+    },
+    "triton_mass_MeV": {
+        "desc": "triton mass MeV",
+        "uncertainty": 6.2000000000000003e-05,
+        "units": "MeV",
+        "value": 2808.9210050000002
+    },
+    "triton_mass_in_u": {
+        "desc": "triton mass in u",
+        "uncertainty": 2.5000000000000001e-09,
+        "units": "u",
+        "value": 3.0155007133999998
+    },
+    "von_Klitzing_constant": {
+        "desc": "von Klitzing constant",
+        "uncertainty": 8.3999999999999992e-06,
+        "units": "ohm",
+        "value": 25812.807443400001
+    },
+    "weak_mixing_angle": {
+        "desc": "weak mixing angle",
+        "uncertainty": 0.0020999999999999999,
+        "units": null,
+        "value": 0.2223
+    },
+}
