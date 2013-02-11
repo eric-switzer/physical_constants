@@ -1,0 +1,140 @@
+{
+    "tropical_year_s": {
+        "desc": "Year (equinox to equinox)",
+        "uncertainty": null,
+        "units": "s",
+        "value": 31556925.2
+    },
+    "sidereal_year_s": {
+        "desc": "Year (fixed star to fixed star)",
+        "uncertainty": null,
+        "units": "s",
+        "value": 31558149.8
+    },
+    "astronomical_unit_cm": {
+        "desc": "Astronomical unit",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 1.49597871e13
+    },
+    "parsec_cm": {
+        "desc": "Parsec",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 3.08567758e18
+    },
+    "lightyear_cm": {
+        "desc": "Light year",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 9.4605284e17
+    },
+    "earth_mass": {
+        "desc": "Earth mass",
+        "uncertainty": null,
+        "units": "g",
+        "value": 5.97219e27
+    },
+    "earth_radius": {
+        "desc": "Earth radius",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 6.378137e8
+    },
+    "solar_mass": {
+        "desc": "Solar mass",
+        "uncertainty": null,
+        "units": "g",
+        "value": 1.9891e33
+    },
+    "solar_radius": {
+        "desc": "Solar radius",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 6.9551e10
+    },
+    "solar_luminosity": {
+        "desc": "Solar luminosity",
+        "uncertainty": null,
+        "units": "erg s^-1",
+        "value": 3.9e33
+    },
+    "solar_temperature": {
+        "desc": "Solar Temperature",
+        "uncertainty": null,
+        "units": "K",
+        "value": 5.780e3
+    },
+    "solar_distance_gal_center": {
+        "desc": "Distance of the sun from the galactic center",
+        "uncertainty": null,
+        "units": "kpc",
+        "value": 8.4
+    },
+    "solar_velocity_gal_center": {
+        "desc": "Velocity of sun about galactic center",
+        "uncertainty": null,
+        "units": "km/s",
+        "value": 240.0
+	},
+    "CMB_temperature": {
+        "desc": "CMB temperature",
+        "uncertainty": null,
+        "units": "K",
+        "value": 2.7255
+    },
+    "CMB_dipole": {
+        "desc": "CMB dipole temperature",
+        "uncertainty": null,
+        "units": "mK",
+        "value": 3.355
+    },
+    "CMB_photon_number_density": {
+        "desc": "CMB photon density (T/2.725)^3",
+        "uncertainty": null,
+        "units": "cm^-3",
+        "value": 410.5
+    },
+    "cosmo_baryon_photon_ratio": {
+        "desc": "Cosmological baryon to photon ratio",
+        "uncertainty": null,
+        "units": null,
+        "value": 6.19e-10
+    },
+    "cosmo_baryon_number_density": {
+        "desc": "Cosmological baryon number density",
+        "uncertainty": 0.06e-7,
+        "units": "cm^-3",
+        "value": 2.54e-7
+    },
+    "Hubble_rate": {
+        "desc": "Hubble rate",
+        "uncertainty": null,
+        "units": "h Gyr^-1",
+        "value": 0.102273
+    },
+    "Hubble_length": {
+        "desc": "Hubble length",
+        "uncertainty": null,
+        "units": "h^-1 cm",
+        "value": 0.925063e28
+    },
+    "critical_density_Msun_mpc": {
+        "desc": "Critical density",
+        "uncertainty": null,
+        "units": "h^2 Msun Mpc^-3",
+        "value": 2.77536627e11
+    },
+    "critical_density_g_cm": {
+        "desc": "Critical density",
+        "uncertainty": null,
+        "units": "h^2 g cm^-3",
+        "value": 1.87847e-29
+    },
+    "critical_density_GeV_cm": {
+        "desc": "Critical density",
+        "uncertainty": null,
+        "units": "h^2 GeV/c^2 cm^-3",
+        "value": 1.05375e-5
+    }
+}
