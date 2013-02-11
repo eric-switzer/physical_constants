@@ -71,6 +71,7 @@ def generate_local():
     build_lib = PhysicalConstants()
     build_lib.load(param_root + "NIST_constants_Feb2013_cgs.json")
     build_lib.load(param_root + "astrophysical.json")
+    build_lib.load(param_root + "cosmology_WMAP9.json")
     build_lib.add_const("one", 1.)
     build_lib.save("combined_constants.json")
 

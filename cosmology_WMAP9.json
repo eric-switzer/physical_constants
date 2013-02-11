@@ -1,0 +1,104 @@
+{
+    "Omega_b_h2": {
+        "desc": "Baryons",
+        "uncertainty": 0.00033,
+        "units": "",
+        "value": 0.02223
+    },
+    "Omega_c_h2": {
+        "desc": "CDM",
+        "uncertainty": 0.0019,
+        "units": "",
+        "value": 0.1153
+    },
+    "Omega_Lambda": {
+        "desc": "Lambda",
+        "uncertainty": 0.0095,
+        "units": "",
+        "value": 0.7135
+    },
+    "Delta_R2": {
+        "desc": "Amplitude of primordial scalar curvature perturbations",
+        "uncertainty": 0.072e-9,
+        "units": "",
+        "value": 2.464e-9
+    },
+    "scalar_index_ns": {
+        "desc": "index of the primordial scalar perturbation power",
+        "uncertainty": 0.0080,
+        "units": "",
+        "value": 0.9608
+    },
+    "CMB_tau": {
+        "desc": "Reionization optical depth",
+        "uncertainty": 0.012,
+        "units": "",
+        "value": 0.081
+    },
+    "age_universe": {
+        "desc": "LCDM derived Age of the universe",
+        "uncertainty": 0.059,
+        "units": "Gyr",
+        "value": 13.772
+    },
+    "Hubble_constant": {
+        "desc": "derived: Hubble constant today",
+        "uncertainty": 0.80,
+        "units": "km/s per Mpc",
+        "value": 69.32
+    },
+    "little_Hubble_constant": {
+        "desc": "derived: h Hubble constant today",
+        "uncertainty": 0.008,
+        "units": "km/s per Mpc",
+        "value": 0.6932
+    },
+    "sigma_8": {
+        "desc": "derived: fluctuation rms on 8Mpc scales",
+        "uncertainty": 0.014,
+        "units": "",
+        "value": 0.820
+    },
+    "Omega_b": {
+        "desc": "derived: Baryons",
+        "uncertainty": 0.00093,
+        "units": "",
+        "value": 0.04628
+    },
+    "Omega_c": {
+        "desc": "derived: CDM",
+        "uncertainty": 0.0088,
+        "units": "",
+        "value": 0.2402
+    },
+    "redshift_eq": {
+        "desc": "redshift of matter-radiation equality",
+        "uncertainty": 47.0,
+        "units": "",
+        "value": 3293.0
+    },
+    "redshift_reion": {
+        "desc": "redshift of reionization",
+        "uncertainty": 1.0,
+        "units": "",
+        "value": 10.1
+    },
+    "N_eff_relativistic": {
+        "desc": "assumed: number of effective relativistic DOF",
+        "uncertainty": 0.0,
+        "units": "",
+        "value": 3.04
+    },
+    "sum_neutrino_mass": {
+        "desc": "assumed: sum of the neutrino mass",
+        "uncertainty": 0.0,
+        "units": "eV",
+        "value": 0.0
+    },
+    "helium_Yp": {
+        "desc": "assumed fraction (by mass) of helium",
+        "uncertainty": 0.0,
+        "units": "",
+        "value": 0.248
+    }
+}

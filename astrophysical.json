@@ -23,6 +23,18 @@
         "units": "cm",
         "value": 3.08567758e18
     },
+    "Mpc_cm": {
+        "desc": "Megaparsec",
+        "uncertainty": null,
+        "units": "cm",
+        "value": 3.08567758e24
+    },
+    "Mpc_km": {
+        "desc": "Megaparsec",
+        "uncertainty": null,
+        "units": "km",
+        "value": 3.08567758e19
+    },
     "lightyear_cm": {
         "desc": "Light year",
         "uncertainty": null,
@@ -45,7 +57,7 @@
         "desc": "Solar mass",
         "uncertainty": null,
         "units": "g",
-        "value": 1.9891e33
+        "value": 1.98892e33
     },
     "solar_radius": {
         "desc": "Solar radius",
@@ -81,7 +93,7 @@
         "desc": "CMB temperature",
         "uncertainty": null,
         "units": "K",
-        "value": 2.7255
+        "value": 2.72548
     },
     "CMB_dipole": {
         "desc": "CMB dipole temperature",
